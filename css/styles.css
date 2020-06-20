@@ -1,12 +1,13 @@
 a{
-  color: #1e836c;
+
+  color: #EAF6F6;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
   font-weight: bold;
   margin: 10px 5px;
 }
 a:hover{
-  color: #EAF6f6;
+  color: #1e836c;
 }
 body{
   margin: 0;
